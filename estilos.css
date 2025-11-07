@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+header, section, article, footer {
+  margin: 20px;
+  padding: 15px;
+}
+
+header {
+  background-color: #f44336;
+}
+
+.art1 {
+  background-color: #4caf50;
+}
+
+.art2 {
+  background-image: url('fondo.svg');
+  background-size: cover;
+  color: white;
+}
+
+footer {
+  background-color: #2196f3;
+}
+
+.enlaces a {
+  display: block;
+  margin: 5px 0;
+  color: #000;
+  text-decoration: none;
+}
