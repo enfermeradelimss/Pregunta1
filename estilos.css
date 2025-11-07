@@ -17,9 +17,9 @@ header {
 }
 
 .art2 {
-  background-image: url('fondo.svg');
+  background-image: url('./imagenes/fondo.svg');
   background-size: cover;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 footer {
