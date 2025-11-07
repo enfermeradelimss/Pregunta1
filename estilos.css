@@ -9,17 +9,19 @@ header, section, article, footer {
 }
 
 header {
-  background-color: #f44336;
+  background-color: #3698f4;
 }
 
 .art1 {
-  background-color: #4caf50;
+  background-image: url('./imagenes/fondo.svg');
+  background-size: cover;
+  color: rgb(0, 155, 194);
 }
 
 .art2 {
   background-image: url('./imagenes/fondo.svg');
   background-size: cover;
-  color: rgb(0, 0, 0);
+  color: rgb(0, 106, 133);
 }
 
 footer {
